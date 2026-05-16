@@ -2,9 +2,9 @@
 
 # Yaswanth Kanderi
 
-**Cyber Security Analyst** · Melbourne, Australia 🇦🇺
+**Master of Cyber Security · La Trobe University, Melbourne** 🇦🇺
 
-Building detection-ready skills through hands-on practice, real projects, and applied ML.
+Passionate about security engineering, threat detection, and building systems that are resilient by design.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaswanthkanderi/)
 [![Email](https://img.shields.io/badge/Email-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:yaswanthchowdary01@outlook.com)
@@ -17,13 +17,15 @@ Building detection-ready skills through hands-on practice, real projects, and ap
 
 ## 👋 About
 
-I'm a **Master's student in Cyber Security at La Trobe University, Melbourne**, with an engineering background and hands-on experience building secure systems that use AI/ML for real-world problems.
+I'm a **Master's student in Cyber Security at La Trobe University, Melbourne**, with a background in Computer Science Engineering and a deep interest in how systems can be built, broken, and defended.
 
-My portfolio sits deliberately at the intersection of **security, machine learning, and data** — because modern defenders need all three. I care about threat detection, vulnerability assessment, and incident response, and I'm building toward a career as a SOC Analyst or Detection Engineer.
+My work sits at the intersection of **security, machine learning, and data** — because I believe modern defenders need fluency across all three. I am drawn to the analytical side of security: understanding how attacks unfold, how anomalies surface in data, and how well-designed systems limit the blast radius when things go wrong.
+
+Outside of formal study, I learn by doing. I build projects, work through CTF challenges, and document what I discover. I approach problems methodically, write code with security in mind from the start, and I'm always looking for the gap between how a system is supposed to work and how it actually behaves.
 
 **What I bring:**
-- 🧠 Applied ML skills directly transferable to anomaly detection, threat classification & log analysis
-- 🔐 Security-first engineering mindset — I design APIs with auth, validation, and least-privilege by default
+- 🧠 Applied ML skills directly transferable to anomaly detection, threat classification, and log analysis
+- 🔐 Security-first engineering mindset — I design with auth, validation, and least-privilege by default
 - 📊 Data fluency (Python, SQL, Pandas) — essential for log investigation and SIEM work
 - 🧰 Hands-on familiarity with Wireshark, Nmap, Burp Suite, OWASP ZAP, and Kali Linux
 
@@ -52,6 +54,18 @@ My portfolio sits deliberately at the intersection of **security, machine learni
 - Transferable to: **SOC alert triage · threat intelligence · phishing detection**
 
 `Python` · `scikit-learn` · `NLTK` · `TF-IDF` · `Logistic Regression` · `Random Forest`
+
+---
+
+### 🛡️ Project Sentinel — Microsoft 365 Security & Governance Intelligence Framework
+**Why it matters for security:** A production-oriented capstone project that mirrors the kind of forensic data extraction and governance visibility work performed in enterprise **DFIR, compliance, and insider threat** investigations.
+
+- Built a Microsoft 365 data extraction framework using the **Microsoft Graph API and Office 365 Management API**, targeting file metadata, DLP policy states, sensitivity labels, and audit logs
+- Implemented **certificate-based authentication** (no client secrets) to meet forensic-grade, least-privilege access requirements
+- Designed structured, repeatable output pipelines suitable for ingestion into SIEM platforms and compliance reporting workflows
+- Covers key M365 security domains: **data loss prevention, information protection, audit trail analysis, and access governance**
+
+`Python` · `Microsoft Graph API` · `Office 365 Management API` · `Azure AD` · `Certificate Auth` · `DLP` · `Audit Logs` · `DFIR`
 
 ---
 
@@ -119,6 +133,9 @@ Developed CRM automation workflows and configured **role-based access controls (
 ## 📚 Learning & Certifications
 
 ### ✅ Completed
+- **Deloitte Australia Cyber Job Simulation** — Forage *(May 2026)*
+- **Claude Code in Action** — Anthropic *(Apr 2026)*
+- **Claude 101** — Anthropic *(Apr 2026)*
 - **Prompt Engineering** — AICTE
 - **Python Programming Workshop** — APSSDC
 - **Data Analytics Internship Certificate** — Pro Work Foundation
