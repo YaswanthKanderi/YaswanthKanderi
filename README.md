@@ -160,8 +160,14 @@ Actively building a home lab environment for **hands-on threat detection practic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YaswanthKanderi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaswanthKanderi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YaswanthKanderi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaswanthKanderi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="160"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YaswanthKanderi&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
