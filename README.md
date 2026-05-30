@@ -1,106 +1,121 @@
-# Hi, I'm Yaswanth Kanderi
+# Yaswanth Kanderi
 
 Master of Cyber Security student at La Trobe University, Melbourne.
-Graduating July 2026. Actively seeking SOC Analyst and Security Analyst roles in Melbourne.
+Graduating July 2026. Actively seeking SOC Analyst and Security Analyst roles in Melbourne, Australia.
 
 ---
 
 ## About Me
 
-- Cyber Security postgraduate student specialising in Microsoft 365 governance, threat detection and security analytics
-- Backend Developer on Project Sentinel, a Microsoft 365 data extraction and governance intelligence framework built for industry client SECMON1
-- Passionate about the intersection of machine learning and cybersecurity
-- International student from India, based in Melbourne, Australia
-
----
-
-## Current Project - Project Sentinel
-
-Building a structured, automated framework to extract and analyse Microsoft 365 governance data across SharePoint, OneDrive, Microsoft Purview and Unified Audit Logs.
-
-Key contributions:
-- M365 tenant architecture and governance environment setup
-- Sensitivity label framework with 4-tier classification and auto-labeling
-- DLP policy configuration targeting Australia Privacy Act sensitive data
-- Purview Compliance API integration for label extraction
-- Retention policy design across SharePoint and OneDrive
-- Audit log extraction pipeline capturing 183 events via Microsoft Graph API
-
-Industry Partner: SECMON1
-Team: Shadow Stacks
+- Aspiring Cyber Security Analyst based in Melbourne, Victoria, Australia
+- Master of Cyber Security (in progress) at La Trobe University, Melbourne
+- Bachelor of Technology in Computer Science Engineering from AITS, Tirupati, India
+- Passionate about threat detection, vulnerability assessment and incident response
+- Strong programming background in Python, Java, SQL and Bash
+- Experienced in data analytics, machine learning and secure system design
+- Open to collaborations, internships and cyber security opportunities in Melbourne
 
 ---
 
 ## Tech Stack
 
+Languages:
+Python, Java, SQL, HTML5, CSS3, Bash, PHP
+
 Security and Governance:
-- Microsoft 365, Microsoft Purview, Microsoft Entra ID
-- Microsoft Graph API, SharePoint REST API
-- Azure App Registration, Certificate-based Authentication
-- MSAL, OAuth 2.0
-- DLP Policies, Sensitivity Labels, Unified Audit Logs
+Microsoft Graph API, Microsoft Purview, Microsoft Entra ID, Azure App Registration, SharePoint REST API, MSAL, OAuth 2.0, Certificate-based Authentication, DLP Policies, Sensitivity Labels, Unified Audit Logs
 
-Programming:
-- Python
-- SQL
-- Bash
+Security Tools:
+Wireshark, Nmap, Burp Suite, OWASP ZAP, Linux
 
-Machine Learning:
-- TF-IDF, Logistic Regression, Naive Bayes
-- Scikit-learn, Pandas, NumPy
+Frameworks and Libraries:
+Scikit-learn, NLTK, Pandas, NumPy, MSAL, OpenPyXL, YOLO, REST APIs, Git, Salesforce
 
-Certifications In Progress:
-- ISC2 Certified in Cybersecurity (CC)
-- Microsoft SC-900
-- Microsoft Azure Fundamentals (AZ-900)
+Security Concepts:
+Network Security, Vulnerability Assessment, Penetration Testing, Incident Response, Risk Analysis, CIA Triad, SDLC
 
 ---
 
-## Projects
+## Academic Projects
 
-Project Sentinel
-Microsoft 365 governance data extraction framework. Extracts file metadata, audit logs, sensitivity labels, DLP matches and sharing permissions via Graph API. Outputs structured JSON and CSV for downstream security analytics.
-Tech: Python, Microsoft Graph API, Microsoft Purview, MSAL, SharePoint REST API
+Project Sentinel - Microsoft 365 Governance Intelligence Framework
+Academic industry capstone project built for SECMON1 in collaboration with La Trobe University.
+Automated extraction and analysis of Microsoft 365 governance data across SharePoint, OneDrive and Microsoft Purview using Microsoft Graph API and certificate-based authentication.
+Key outputs: 183 audit events extracted, 18 files analysed, 72 permissions mapped, 4-tier sensitivity label framework deployed.
+Tech: Python, Microsoft Graph API, Microsoft Purview, MSAL, SharePoint REST API, Azure App Registration
+Role: Backend Developer | Team: Shadow Stacks | Partner: SECMON1
+
+Smart Moves - AI Based Traffic Management System (Academic)
+https://github.com/YaswanthKanderi/Smart-moves-Reinventing-Traffic-Management-System
+Real-time vehicle detection and intelligent traffic optimisation using YOLO deep learning. Processed 500+ vehicle images and reduced simulated congestion by approximately 30%. Built with security-first principles including input validation, access control and rate limiting on all API endpoints.
+Tech: Python, YOLO Deep Learning, REST APIs, HTML, Git, Agile
+La Trobe University Academic Project
+
+Intelligent Traffic Management System using Machine Learning (Academic)
+https://github.com/YaswanthKanderi/Intelligent-Traffic-Management-System-using-Machine-Learning
+Machine learning based traffic management and optimisation system.
+Tech: Python, Machine Learning, Scikit-learn
+Academic Project
 
 Phishing Email Detector
-NLP-based phishing detection combining TF-IDF with logistic regression and security heuristics. Packaged as a Python module with a clean API.
-Tech: Python, Scikit-learn, TF-IDF, Logistic Regression
+NLP-based phishing detection system combining TF-IDF vectorisation with logistic regression and security heuristics. Detects phishing patterns with high accuracy.
+Tech: Python, Scikit-learn, TF-IDF, Logistic Regression, NLP
 
-Fake News Detection
-Machine learning classifier using Naive Bayes to detect fake news articles.
-Tech: Python, Scikit-learn, NLP
+Fake News Detection - NLP and Machine Learning
+https://github.com/YaswanthKanderi/Fake_News_Detection
+ML-based fake news classifier using NLP techniques achieving 95%+ accuracy. Implemented TF-IDF vectorisation with Logistic Regression and Random Forest models. Applied tokenisation, stop-word removal and stemming via NLTK.
+Tech: Python, Scikit-learn, NLTK, TF-IDF, Logistic Regression, Random Forest
 
-Smart Moves AI Traffic Management
-AI-driven traffic management simulation system.
-Tech: Python, Machine Learning
+Doctor-Patient Appointment System
+https://github.com/YaswanthKanderi/Doctor-patient-Appointment-system
+Web-based appointment management system with secure backend logic and user access controls.
+Tech: PHP, MySQL, HTML, CSS
+
+E-Commerce Platform
+https://github.com/YaswanthKanderi/e-commerce
+Full-featured e-commerce web application with product listing, cart and checkout functionality.
+Tech: HTML, CSS, JavaScript
+
+---
+
+## Professional Experience
+
+Data Analytics Intern
+Pro Work Foundation | 2024
+- Analysed 10+ structured datasets using Python (Pandas, NumPy) and SQL
+- Built interactive dashboards and automated reporting pipelines, improving decision turnaround by 25%
+- Gained hands-on experience in data cleaning, quality assurance and production workflows
+
+Salesforce Developer Intern
+Virtual Internship Program | 2023
+- Developed and customised CRM workflows using Salesforce automation tools
+- Configured backend logic, user access controls and automated data validation for secure data handling
 
 ---
 
 ## Education
 
 Master of Cyber Security
-La Trobe University, Melbourne
+La Trobe University, Melbourne, Australia
 Expected July 2026
 
-Bachelor of Computer Science Engineering
-Annamacharya Institute of Technology and Sciences, India
+Bachelor of Technology in Computer Science Engineering
+Annamacharya Institute of Technology and Sciences, Tirupati, India
 2023
 
 ---
 
-## Experience
+## Certifications
 
-Backend Developer - Project Sentinel (Industry Capstone)
-La Trobe University x SECMON1 | 2026
-Microsoft 365 governance extraction framework for enterprise security intelligence
+- Prompt Engineering Certification - AICTE
+- Python Programming Workshop - APSSDC
+- Data Analytics Internship Certification - Pro Work Foundation
+- Salesforce Developer Virtual Internship Certification
 
-Data Analytics Intern
-Pro Work Foundation | 2024
-Data analysis, reporting and dashboard development
-
-Salesforce Developer Intern
-Virtual Internship | 2023
-Salesforce platform development and CRM customisation
+Certifications in Progress:
+- ISC2 Certified in Cybersecurity (CC)
+- Microsoft Security Compliance and Identity (SC-900)
+- Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
